@@ -37,11 +37,10 @@ is_year_date - проверяет, принадлежит ли запись к �
 ## LR3
 [фото всех выполненых тестов](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/tests.jpg) 
 
-[фото всех выполненых тестов](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/tests.jpg) 
+[ExpiringStateExercise](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/testFiles/ExpiringStateExercise.java) 
 
-[фото всех выполненых тестов](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/tests.jpg) 
+[HourlyTipsExercise](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/testFiles/HourlyTipsExercise.java) 
 
-[фото всех выполненых тестов](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/tests.jpg) 
+[RideCleansingExercise](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/testFiles/RideCleansingExercise.java) 
 
-
-[фото всех выполненых тестов](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/tests.jpg) 
+[RidesAndFaresExercise](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/testFiles/RidesAndFaresExercise.java) 
