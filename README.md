@@ -33,3 +33,15 @@ Station и Trip - это вспомогательные классы, испол
 **Вспомогательные функции:**
 find_language - осуществляет поиск языка в тегах без учета регистра.
 is_year_date - проверяет, принадлежит ли запись к определенному году на основе даты создания.
+
+## LR3
+[фото всех выполненых тестов](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/tests.jpg) 
+
+[фото всех выполненых тестов](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/tests.jpg) 
+
+[фото всех выполненых тестов](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/tests.jpg) 
+
+[фото всех выполненых тестов](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/tests.jpg) 
+
+
+[фото всех выполненых тестов](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/tests.jpg) 
