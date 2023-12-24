@@ -44,3 +44,11 @@ is_year_date - проверяет, принадлежит ли запись к �
 [RideCleansingExercise](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/testFiles/RideCleansingExercise.java) 
 
 [RidesAndFaresExercise](https://github.com/diman63sss2/BD_LABS/blob/main/Lab3/testFiles/RidesAndFaresExercise.java) 
+
+## LR4
+
+Задания сделаны на Python (kazoo), расположены в lr4.
+Первая чать лр находится в Lab4/zoomkeeper (с готовым классом Animal)
+
+Проблема обедающих философов(Lab4/Philosophers.py)
+Двуфазный коммит протокол(Lab4/Commit.py)
